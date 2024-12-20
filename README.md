@@ -1,1 +1,1 @@
-# Python
+Welcome to the Python Projects repository! This repository is a collection of various Python projects , understanding of different concepts, and practical experience in coding. It includes a range of projects from simple scripts to complex .# Python
